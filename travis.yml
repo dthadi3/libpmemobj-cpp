@@ -1,5 +1,9 @@
 dist: trusty
 
+arch:
+    - AMD64
+    - ppc64le
+
 sudo: required
 
 language: cpp
